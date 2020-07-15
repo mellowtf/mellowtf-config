@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Tue Jul  7 13:32:41 AM
+// File generated:  Wed Jul 15 12:16:26 AM
 //
 //
 // Cvar	-	Setting
@@ -140,7 +140,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_LastHitbeeps"
 		"#Tooltip_Hitbeeps"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_dingaling_lasthit_volume"
@@ -148,7 +148,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_Volume"
 		"#Tooltip_Dingaling_Volume"
 		{ SLIDER 0 1 }
-		{ "0.75" }
+		{ "1" }
 	}
 
 	"tf_dingalingaling_last_effect"
@@ -166,7 +166,7 @@ DESCRIPTION INFO_OPTIONS
 			"#tf_dingalingaling_Vortex" "7"
 			"#tf_dingalingaling_Squasher" "8"
 		}
-		{ "0" }
+		{ "8" }
 	}
 
 	"tf_dingaling_lasthit_pitchmindmg"
@@ -316,7 +316,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "75" }
+		{ "99" }
 	}
 
 	"category4"
