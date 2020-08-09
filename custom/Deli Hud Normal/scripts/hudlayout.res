@@ -446,7 +446,7 @@
 		"wide"	 "628"
 		"tall"	 "468"
 
-		"MaxDeathNotices" "6"
+		"MaxDeathNotices" "4"
 		"IconScale"	  "0.35"
 		"LineHeight"	  "15"
 		"LineSpacing"	  "0"
