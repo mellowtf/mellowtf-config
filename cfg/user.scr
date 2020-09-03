@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Wed Jul 15 12:16:26 AM
+// File generated:  Tue Aug 25 17:00:28 AM
 //
 //
 // Cvar	-	Setting
@@ -316,7 +316,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "99" }
+		{ "75" }
 	}
 
 	"category4"
@@ -610,7 +610,7 @@ DESCRIPTION INFO_OPTIONS
 		"#Valve_DisableHTMLMOTD"
 		"#Tooltip_DisableHTMLMOTD"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"mp_decals"
