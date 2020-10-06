@@ -1,15 +1,16 @@
 "motd_entries"
 {
-	"last_request_time"		"2020-09-02 21:52:43"
+	"last_request_time"		"2020-10-06 14:21:46"
 	"last_request_language"		"english"
-	"96"
+	"97"
 	{
-		"post_time"		"2020-06-02 14:55:00"
-		"title_english"		"Checked out the blog?"
-		"text_english"		"If you haven't read the official TF2 blog, it's full of insights into our development process, links to notable community productions, and random stories about our love of hats. Hit the button below to take a look!"
-		"url"		"http://www.teamfortress.com/"
-		"image"		"../logo/new_tf2_logo"
-		"header_type"		"0"
-		"header_english"		"#MMenu_News"
+		"post_time"		"2020-10-02 14:55:00"
+		"title_english"		"Scream Fortress XII"
+		"text_english"		"Complete a new round of Merasmissions! Make offerings to your Soul Gargoyle! Play four new community created Halloween maps along with your favorites! Check out the new community cosmetic items and Unusual effects! Scream Fortress XII runs through November 7, 2020."
+		"url"		"http://www.teamfortress.com/post.php?id=76112"
+		"image"		"illustrations/gamemode_halloween2015"
+		"header_type"		"2"
+		"header_english"		"Happy Halloween"
+		"header_icon"		"class_icons/filter_all_motd"
 	}
 }

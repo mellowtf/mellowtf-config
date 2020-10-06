@@ -9,16 +9,16 @@
 		"PositiveColor"								"Heal Numbers"
 		"NegativeColor"								"Damage Numbers"
 		"delta_lifetime"							"2"
-		"delta_item_font"							"M0refont18Outline"
-		"delta_item_font_big"						"M0refont18Outline"
+		"delta_item_font"							"M0refont24Outline"
+		"delta_item_font_big"						"M0refont24Outline"
 	}
 	
 	"DamageAccountValue"
 	{
 		"ControlName"								"CExLabel"
 		"fieldName"									"DamageAccountValue"
-		"xpos"										"c-223"
-		"ypos"										"r155"
+		"xpos"										"c-50" //"c-223"
+		"ypos"										"r170" //"r155"
 		"zpos"										"2"
 		"wide"										"101"
 		"tall"										"26"

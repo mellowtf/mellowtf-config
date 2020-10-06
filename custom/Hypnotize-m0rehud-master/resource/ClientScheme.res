@@ -1,3 +1,10 @@
+// Crosshairs
+#base "crosshairs/broesel/crosshairscheme.res"
+#base "crosshairs/fog/crosshairscheme.res"
+#base "crosshairs/knuckles/crosshairscheme.res"
+#base "crosshairs/toonhud/crosshairscheme.res"
+#base "crosshairs/whahay/crosshairscheme.res"
+
 //Colors
 #base "../resource/scheme/Colors.res"
 
