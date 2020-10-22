@@ -79,7 +79,7 @@ fWeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/thalashseeker"
+				"file"		"vgui/replay/thumbnails/mellowSeeker"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"

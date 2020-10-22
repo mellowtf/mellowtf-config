@@ -61,7 +61,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/crosshair5OL"
+				"file"		"vgui/replay/thumbnails/crosshair5"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
