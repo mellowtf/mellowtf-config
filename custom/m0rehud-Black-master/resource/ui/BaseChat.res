@@ -7,9 +7,9 @@
 		"visible" 		        "1"
 		"enabled" 		        "1"
 		"xpos"			          "8"
-		"ypos"			          "350" //"8"
+		"ypos"			          "8"
 		"wide"	 		          "242"
-		"tall"	 		          "80" //"120"
+		"tall"	 		          "120"
 		"fgcolor"		"Garm3nWhite"
 		"PaintBackgroundType"	"2"
 	}
