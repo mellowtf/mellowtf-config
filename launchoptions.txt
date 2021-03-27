@@ -1,1 +1,1 @@
--high -fullscreen -refresh 60 -console -novid -novid -nojoy -nosteamcontroller -nohltv -particles 1 -NoQueuedPacketThread +cl_clean_textures_on_death 1 +mat_lodin_time 0 
+-high -fullscreen -refresh 144 -console -novid -novid -nojoy -nosteamcontroller -nohltv -particles 1 -NoQueuedPacketThread +cl_clean_textures_on_death 1 +mat_lodin_time 0 
