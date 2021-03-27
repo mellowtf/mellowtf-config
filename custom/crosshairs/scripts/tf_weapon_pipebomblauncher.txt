@@ -85,7 +85,7 @@ WeaponData
 		}
 		"crosshair"
 		{
-				"file"		"vgui/replay/thumbnails/hqring"
+				"file"		"vgui/replay/thumbnails/ring"
 				"x"		"0"
 				"y"		"0"
 				"width"		"64"
