@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Sun Apr  4 05:17:28 AM
+// File generated:  Mon Apr 12 03:25:06 AM
 //
 //
 // Cvar	-	Setting
@@ -148,7 +148,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_LastHitbeeps"
 		"#Tooltip_Hitbeeps"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_dingaling_lasthit_volume"
@@ -174,7 +174,7 @@ DESCRIPTION INFO_OPTIONS
 			"#tf_dingalingaling_Vortex" "7"
 			"#tf_dingalingaling_Squasher" "8"
 		}
-		{ "0" }
+		{ "4" }
 	}
 
 	"tf_dingaling_lasthit_pitchmindmg"
@@ -377,7 +377,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_EnableGlowsAfterRespawn"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_hud_playerclass_use_playermodel"
@@ -480,7 +480,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_TargetID_Alpha"
 		"#ToolTip_TargetID_Alpha"
 		{ SLIDER 0 255 }
-		{ "100" }
+		{ "255" }
 	}
 
 	"tf_contract_progress_show"
